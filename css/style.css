@@ -1862,6 +1862,9 @@ label {
   margin-bottom: 5px;
   text-transform: uppercase;
 }
+.breadcrumb-text h3 {
+  color: #f4f4f4;
+}
 .breadcrumb-menu {
 }
 .breadcrumb-menu ul {
@@ -3357,4 +3360,8 @@ blockquote p {
 
 .logo-title {
   text-align: center;
+}
+
+.blog-area .blog-content p {
+  font-size: 16px;
 }
