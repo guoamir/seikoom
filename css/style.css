@@ -249,7 +249,9 @@ label {
   padding-bottom: 32px;
   padding-top: 32px;
 }
-.header-logo{}
+.header-logo{
+  text-align:center;
+}
 .header-top-wrapper {
   margin-left: 50px;
 }
@@ -3351,4 +3353,8 @@ blockquote p {
 }
 .quote-form button:hover {
 	background: #ec6d48;
+}
+
+.logo-title {
+  text-align: center;
 }
